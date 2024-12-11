@@ -1,8 +1,5 @@
 package lab3
-import lab3.BubbleSort
-import lab3.Factorial
-import lab3.QuickSort
-import lab3.TorresdeHanoi
+
 import kotlin.system.exitProcess
 
 fun main() {
